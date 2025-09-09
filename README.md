@@ -61,13 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-NN-2k3&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
----
-> “Some build apps for fame,  
-> I build them for the feeling —  
-> when an idea breathes on screen,  
-> and the world silently whispers, *‘nice.’*”  
----
-
 ### 🌌 Final Words
 
 <p align="center">
