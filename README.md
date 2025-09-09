@@ -1,17 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2042D&center=true&width=600&lines=Hey+there%2C+I'm+Nevil+Nandasana+%F0%9F%91%8B;Curious+Mind+%7C+Code+Artist+%7C+Builder;Learning+while+Building...;Bringing+dreams+to+screen+one+pixel+at+a+time!" alt="Typing SVG" />
 </p>
-
-> *I don't speak much,  
-> but my code knows how to whisper what I feel.*  
->  
-> *I build quietly — not for the noise,  
-> but for the joy of bringing ideas to life.*  
->  
-> *I’m here not just to create apps…  
-> but to leave something behind that mattered.*  
-
-
 ---
 
 <p align="center">
