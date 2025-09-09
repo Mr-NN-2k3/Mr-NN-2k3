@@ -16,8 +16,6 @@
 
 ### 👨‍💻 About Me
 
-> “In a world of 0s and 1s, I craft poetry through code.”
-
 - 🚀 Android | AI | UI/UX | Real-Time Systems  
 - 🎯 Currently building **LiveLens** – a live camera app with weather, GPS, and smart overlays  
 - 🌱 Exploring TensorFlow Lite, Firebase, and advanced Kotlin  
